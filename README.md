@@ -1,4 +1,4 @@
-# Sandstone ComboCurve Open-Source Python Package
+# ComboCurve Open-Source Python Package
 
 This open source python package allows for easy access to ComboCurve REST API with many pre-built integrations.  
 
